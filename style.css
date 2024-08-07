@@ -1,0 +1,28 @@
+.carousel img{
+    border-radius: 30px;
+    margin: 20px 0px;
+}
+.cards{
+    display: flex;
+    margin: 20px;
+}
+.card{
+    margin: auto;
+}
+.line{
+    width: 1400px;
+    height: 2px;
+    margin: auto;
+    border-radius: 50%;
+    background-color: rgb(88, 88, 88);
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+footer{
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
